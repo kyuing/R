@@ -89,7 +89,7 @@ v <- c("one","two","three","four","five")
 # To get 4th value in a vector or array,
 # specify the index num. 
 # (in R, index starts from 1, not from 0)
-v[3]
+v[4]
 
 
 # To get more than one value in a vector or array,
