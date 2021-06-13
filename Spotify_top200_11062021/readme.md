@@ -5,6 +5,6 @@
 
 ## implementation note
  - Spotify provides the Top 200 charts at https://spotifycharts.com/
-   and the charts data can be downloadable. (CSV file)  
+   and the charts data is downloadable. (CSV file)  
  - Extracted artist names and its frequency from the file,
-   visualized the extracted data using wordcloud.
+   and visualized the extracted data using wordcloud.
