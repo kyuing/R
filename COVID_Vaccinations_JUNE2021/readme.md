@@ -15,10 +15,7 @@
 
 
 
-<meta name="ProgId" content="Excel.Sheet">
-<meta name="Generator" content="Microsoft Excel 14">
-<link id="Main-File" rel="Main-File" href="file:///C:\Users\HP\AppData\Local\Temp\msohtmlclip1\01\clip.htm">
-<link rel="File-List" href="file:///C:\Users\HP\AppData\Local\Temp\msohtmlclip1\01\clip_filelist.xml">
+
 <style>
 <!--table
 	{mso-displayed-decimal-separator:"\.";
