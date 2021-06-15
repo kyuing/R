@@ -1,4 +1,4 @@
-# Monthly Corona Vaccination Status 2021
+# Global Monthly Corona Vaccination Status 2021
 
   With An open source COVID-19 vaccination statistics (available at https://ourworldindata.org) : 
 

@@ -47,7 +47,7 @@ ggplot(monthly,
        geom_bar(stat="identity") +
        labs(title="Monthly Corona Vaccination Status 2021
             \n(based on the 1st of every month from JANUARY to JUNE)\n") +
-       labs(y= "The number of people that have fully been vacinnated",
+       labs(y= "The number of people that have fully been vaccinated",
             x = "Month",
             fill = "") +
        geom_text(aes(y=people_fully_vaccinated,
